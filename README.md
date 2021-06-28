@@ -3,9 +3,11 @@ A Simple Ruby Chat App
 
 
 To Initialize:
+#
+**cd ruby-chat-app**
+#
+**ruby server.rb**
+#
+__ruby client.rb__
 
-cd ruby-chat
 
-ruby server.rb
-
-ruby client.rb
